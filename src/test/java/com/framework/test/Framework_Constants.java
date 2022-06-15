@@ -2,7 +2,7 @@ package com.framework.test;
 
 public class Framework_Constants {
 	
-	public static final String URL = "\"https://ondemand.questionmark.com/home/406121\"";
+	public static final String URL = "https://www.saucedemo.com/";
 	public static final String BROWSER = "chrome";
 	public static final String USER_NAME = "standard_user";
 	public static final String PASSWORD = "secret_sauce";
